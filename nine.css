@@ -1,0 +1,6 @@
+.nine-page{
+    width: 100vw;
+    height: 120vh;
+    background-image: conic-gradient(from 90deg at -10% 100%,#2b303b 0deg,#2b303b 90deg,#16181d 1turn);
+
+}
